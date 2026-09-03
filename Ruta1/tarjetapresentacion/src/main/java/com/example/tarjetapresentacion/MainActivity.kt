@@ -105,7 +105,7 @@ fun ProfileSection() {
             text = stringResource(id = R.string.cargo_actual),
             fontSize = 16.sp,
             fontWeight = FontWeight.Bold,
-            color = Color(0xFF3DDC84) // Verde Android
+            color = Color(0xFF3DDC84)
         )
     }
 }
@@ -144,7 +144,7 @@ fun ContactRow(icon: ImageVector, iconContentDescription: String, contactText: S
         Icon(
             imageVector = icon,
             contentDescription = iconContentDescription,
-            tint = Color(0xFF3DDC84), // Color verde Android aplicado al ícono
+            tint = Color(0xFF3DDC84), 
             modifier = Modifier.size(24.dp)
         )
         Spacer(modifier = Modifier.width(20.dp))
