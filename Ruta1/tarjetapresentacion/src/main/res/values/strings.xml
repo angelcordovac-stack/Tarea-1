@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TarjetaPresentacion</string>
+    <string name="nombre_completo">Angel Cordova</string>
+    <string name="cargo_actual">Desarrollador Android</string>
+    <string name="telefono">+51 999 999 999</string>
+    <string name="red_social">@angel_cordova</string>
+    <string name="correo">angel@cordova.com</string>
+    <string name="desc_logo_android">Logotipo de Android</string>
+    <string name="desc_icono_telefono">Ícono de teléfono</string>
+    <string name="desc_icono_social">Ícono de redes sociales</string>
+    <string name="desc_icono_correo">Ícono de correo electrónico</string>
+</resources>
